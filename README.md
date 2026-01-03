@@ -58,7 +58,7 @@ A scalable Java backend for vehicle data with 100% test coverage.
 
 **$ Connect With Me
 
-    LinkedIn: [Your Profile Link]
+    LinkedIn: www.linkedin.com/in/chanziandersonchanzi
 
     Email: chanzianderson5102@icloud.com
 
