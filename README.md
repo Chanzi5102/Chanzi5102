@@ -3,7 +3,8 @@ Software Engineer | Automotive & Systems Specialist
 Building High-Performance C++ Applications & Robust Java Backends
 
 Who Am I?
-I am a Software Engineering Student and Project Specialist based in Tanzania, dedicated to the "Apple Standard" of software: where aesthetic beauty meets mathematical precision. Ambitioned to engineer the future of automotive technology and enterprise systems, eventually contributing to the field as a Professor in Testing.
+
+    I am a Software Engineering Student and Project Specialist based in Tanzania, dedicated to the "Apple Standard" of software: where aesthetic beauty meets mathematical precision. Ambitioned to engineer the      future of automotive technology and enterprise systems, eventually contributing to the field as a Professor in Testing.
 
     Currently focusing on: High-performance HMI development with Qt Creator.
 
