@@ -4,40 +4,36 @@ Building High-Performance C++ Applications & Robust Java Backends
 
 Who Am I?
 
-    I am a Software Engineering Student and Project Specialist based in Tanzania, dedicated to the "Apple Standard" of software: where aesthetic beauty meets mathematical precision. Ambitioned to engineer the      future of automotive technology and enterprise systems, eventually contributing to the field as a Professor in Testing.
+             I am a Software Engineering Student and Project Specialist based in Tanzania, dedicated to the "Apple Standard" of software: where aesthetic beauty meets mathematical precision. Ambitioned to 
+             engineer the future of automotive technology and enterprise systems, eventually contributing to the field as a Professor in Testing.
+ 
+            Currently focusing on: High-performance HMI development with Qt Creator.
 
-    Currently focusing on: High-performance HMI development with Qt Creator.
-
-    Philosophy: If it isn't tested via BDD, it isn't finished.
+            Philosophy: If it isn't tested via BDD, it isn't finished.
 
 The Technical Vault
-Category	Technologies
-Low-Level / Performance	C++ (17/20), Rust, C, Qt Framework (QML)
-Enterprise / Backend	Java (Spring Boot), Go, Chttps://www.google.com/search?q=%23, Python
-Quality Assurance	BDD (Cucumber/Gherkin), JUnit, Selenium, ISTQB Standards
-Data & Cloud	SQL (Oracle/PostgreSQL), NoSQL (MongoDB), Docker, Linux Admin
-Intelligence	Machine Learning integration via Python (TensorFlow) & C++ (TensorRT)
+            
+            Category	        Technologies
+            Low-Level           Performance	C++ (17/20), Rust, C, Qt Framework (QML)
+            Enterprise Backend	Java (Spring Boot), Go, Chttps://www.google.com/search?q=%23, Python
+            Quality Assurance	BDD (Cucumber/Gherkin), JUnit, Selenium, ISTQB Standards
+            Data & Cloud	    SQL (Oracle/PostgreSQL), NoSQL (MongoDB), Docker, Linux Administation
+            Intelligence	Machine Learning integration via Python (TensorFlow) & C++ (TensorRT)
 
 📂 Featured Projects:
  [Project 1: Automotive HMI Dashboard]
 
-A digital instrument cluster built for luxury performance vehicles.
-
-    Tech: C++, Qt Creator, QML.
-
-    Highlights: Real-time sensor simulation, dynamic "Sport Mode" UI transitions, and memory-efficient rendering.
-
-    View Repository
+            A digital instrument cluster built for luxury performance vehicles.
+            Tech: C++, Qt Creator, QML.
+            Highlights: Real-time sensor simulation, dynamic "Sport Mode" UI transitions, and memory-efficient rendering.
+ View Repository
 
 [Project 2: Telemetry Backend & Test Suite]
 
-A scalable Java backend for vehicle data with 100% test coverage.
-
-    Tech: Java, Spring Boot, Cucumber (BDD), Oracle DB.
-
-    Highlights: Automated Gherkin-based testing scenarios for edge-case vehicle failures.
-
-    View Repository
+          A scalable Java backend for vehicle data with 100% test coverage.
+          Tech: Java, Spring Boot, Cucumber (BDD), Oracle DB.
+          Highlights: Automated Gherkin-based testing scenarios for edge-case vehicle failures.
+ View Repository
 
 [Project 3: Driver-Awareness ML]
 
