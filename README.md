@@ -4,21 +4,21 @@ Building High-Performance C++ Applications & Robust Java Backends
 
 Who Am I?
 
-             I am a Software Engineering Student and Project Specialist based in Tanzania, dedicated to the "Apple Standard" of software: where aesthetic beauty meets mathematical precision. Ambitioned to 
-             engineer the future of automotive technology and enterprise systems, eventually contributing to the field as a Professor in Testing.
+                        
+     I am a Software Engineering Student and Project Specialist based in Tanzania, dedicated to the "Apple Standard" of software: where aesthetic beauty meets mathematical precision. Ambitioned to 
+     engineer the future of automotive technology and enterprise systems, eventually contributing to the field as a Professor in Testing.
  
-            Currently focusing on: High-performance HMI development with Qt Creator.
+    Currently focusing on: High-performance HMI development with Qt Creator.
+    Philosophy: If it isn't tested via BDD, it isn't finished.
 
-            Philosophy: If it isn't tested via BDD, it isn't finished.
-
-The Technical Vault
+Technical Vault
             
-            Category	        Technologies
-            Low-Level           Performance	C++ (17/20), Rust, C, Qt Framework (QML)
-            Enterprise Backend	Java (Spring Boot), Go, Chttps://www.google.com/search?q=%23, Python
-            Quality Assurance	BDD (Cucumber/Gherkin), JUnit, Selenium, ISTQB Standards
-            Data & Cloud	    SQL (Oracle/PostgreSQL), NoSQL (MongoDB), Docker, Linux Administation
-            Intelligence	Machine Learning integration via Python (TensorFlow) & C++ (TensorRT)
+             Category	                       Technologies
+             Low-Level                         Performance C++ (17/20), Rust, C, Qt Framework (QML)
+             Enterprise Backend	            Java (Spring Boot), Go, Chttps://www.google.com/search?q=%23, Python
+             Quality Assurance	            BDD (Cucumber/Gherkin), JUnit, Selenium, ISTQB Standards
+             Data & Cloud	            SQL (Oracle/PostgreSQL), NoSQL (MongoDB), Docker, Linux Administation
+             Intelligence	            Machine Learning integration via Python (TensorFlow) & C++ (TensorRT)
 
 📂 Featured Projects:
  [Project 1: Automotive HMI Dashboard]
@@ -37,7 +37,7 @@ The Technical Vault
 
 [Project 3: Driver-Awareness ML]
 
-**$ Integrating computer vision into the cockpit for driver safety.
+Integrating computer vision into the cockpit for driver safety.
 
     Tech: Python (Prototype) / C++ (Implementation), OpenCV.
 
@@ -45,7 +45,7 @@ The Technical Vault
 
     View Repository
 
-**$ Performance Metrics (The "Professor" Mindset)
+Performance Metrics (The "Professor" Mindset)
 
     Testing Coverage Goal: >95%
 
@@ -53,11 +53,11 @@ The Technical Vault
 
     Learning Path: Currently pursuing deep-dive certifications in ISO 26262 (Automotive Safety).
 
-**$ Connect With Me
+Connect With Me
 
     LinkedIn: www.linkedin.com/in/chanziandersonchanzi
 
     Email: chanzianderson5102@icloud.com
 
-    Location: Dar es Salaam, Tanzania (Available for Global Remote roles)
+    Location: Dodoma, Tanzania (Available for Global Remote roles)
 
